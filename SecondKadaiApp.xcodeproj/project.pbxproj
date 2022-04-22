@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A552D9C2811AA2C00964BBF /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A552D9B2811AA2C00964BBF /* ResultViewController.swift */; };
 		2A7AA0912804326B00DE03EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7AA0902804326B00DE03EB /* AppDelegate.swift */; };
 		2A7AA0932804326B00DE03EB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7AA0922804326B00DE03EB /* SceneDelegate.swift */; };
 		2A7AA0952804326B00DE03EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7AA0942804326B00DE03EB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A552D9B2811AA2C00964BBF /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		2A7AA08D2804326B00DE03EB /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A7AA0902804326B00DE03EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A7AA0922804326B00DE03EB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				2A7AA0902804326B00DE03EB /* AppDelegate.swift */,
 				2A7AA0922804326B00DE03EB /* SceneDelegate.swift */,
 				2A7AA0942804326B00DE03EB /* ViewController.swift */,
+				2A552D9B2811AA2C00964BBF /* ResultViewController.swift */,
 				2A7AA0962804326B00DE03EB /* Main.storyboard */,
 				2A7AA0992804326C00DE03EB /* Assets.xcassets */,
 				2A7AA09B2804326C00DE03EB /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				2A7AA0952804326B00DE03EB /* ViewController.swift in Sources */,
 				2A7AA0912804326B00DE03EB /* AppDelegate.swift in Sources */,
 				2A7AA0932804326B00DE03EB /* SceneDelegate.swift in Sources */,
+				2A552D9C2811AA2C00964BBF /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
